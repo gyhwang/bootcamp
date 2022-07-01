@@ -98,13 +98,4 @@ var dot = led{
 	"░",
 }
 
-var space = led{
-	"---",
-	"---",
-	"---",
-	"---",
-	"---",
-}
-
-var empty = [...]led{space, space, space, space, space, space, space, space}
 var digits = [...]led{zero, one, two, three, four, five, six, seven, eight, nine}
